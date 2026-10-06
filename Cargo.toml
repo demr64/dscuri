@@ -1,0 +1,9 @@
+[package]
+name = "dscuri"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sha2 = "0.11.0"
+walkdir = "2"
+hex = "0.4"
